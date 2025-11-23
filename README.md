@@ -85,3 +85,8 @@ Preprocessing overview
 Adjustable model parameters (sidebar)
 Model training & evaluation
 Download predictions button
+
+## Live demo
+```bash
+https://practical-lab-assignment-v9o5pbu8h2sqiyq5ptkp27.streamlit.app/
+```
